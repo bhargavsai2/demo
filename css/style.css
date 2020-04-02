@@ -5028,7 +5028,7 @@ FOOTER
     position: relative;
     display: inline-block;
 }
-.section-title h3:before{
+/*.section-title h3:before{
     content: "";
     display: inline-block;
     height: 2px;
@@ -5036,7 +5036,7 @@ FOOTER
      margin: 0 -30px 6px 0;
     width: 47px;
     background-color: #c99947;
-}
+}*/
 .section-title .sub-title {
   color: #555555;
   display: block;
